@@ -131,7 +131,7 @@ def generate_refined_plate(
     subs = occ.addRectangle(0, -subsheight, 0, width, subsheight)
     # Second rectangle directly above the first
     # Trapezoid parameters
-    top_width = 2 * width  # Width of the top edge
+    top_width = 3 * width  # Width of the top edge
     offset = (width - top_width) / 2
 
     # Corner points (counter-clockwise)
@@ -281,7 +281,7 @@ subsFilter = subsFilter.at[subsEleIndex].set(0)
 
 # Definition of the number of subparts and orientation variable
 numSubParts = 1
-theta = [90]
+theta = [60]
 bead = 3
 maxLayers = jnp.ceil((domainSize / bead)).astype(jnp.int32)
 layerArray = jnp.arange(-maxLayers, maxLayers + 1, 1)
