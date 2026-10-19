@@ -35,7 +35,6 @@ developed by Dr. Mohit Pundir at ETH Zurich, Zurich, Switzerland.
 
 ### Getting Started
 
-Clone the repository:
 ```bash
 git clone https://github.com/tovibhas1110/MultiPlanarDistortion.git
 cd MultiPlanarDistortion
