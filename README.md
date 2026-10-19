@@ -33,7 +33,7 @@ developed by Dr. Mohit Pundir at ETH Zurich, Zurich, Switzerland.
 - Meshio
 - tatva
 
-### Installation
+### Getting Started
 
 Clone the repository:
 ```bash
