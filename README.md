@@ -29,6 +29,9 @@ developed by Dr. Mohit Pundir at ETH Zurich, Zurich, Switzerland.
 - SciPy
 - JAX
 - Matplotlib
+- Gmsh
+- Meshio
+- tatva
 
 ### Installation
 
@@ -36,3 +39,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/tovibhas1110/MultiPlanarDistortion.git
 cd MultiPlanarDistortion
+python3 MPDis_Obracket.py
