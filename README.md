@@ -130,12 +130,6 @@ python3 -m venv env
 source env/bin/activate
 ```
 
-For Windows:
-
-```bash
-env\Scripts\activate
-```
-
 **Step 4: Install the Python dependencies**
 
 ```bash
