@@ -173,7 +173,7 @@ The framework is relevant to:
 
 For details on the distortion prediction methodology, refer to:
 
-**Mishra, V., et al. (2025).**
+**Mishra, V., Wu, J. (2026). Differentiable modelling and optimization of multi-planar slicing for multi-axis additive manufacturing **
 
 *Structural and Multidisciplinary Optimization.*
 
