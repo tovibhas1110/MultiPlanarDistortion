@@ -199,12 +199,3 @@ Delft, The Netherlands
 
 GitHub: https://github.com/tovibhas1110
 
-## Future Development
-
-Potential extensions of this framework include:
-
-- Gradient-based optimization of build directions.
-- Optimization of component segmentation.
-- Manufacturing sequence optimization.
-- Incorporation of distortion constraints into topology optimization.
-- Integrated design and manufacturing process optimization.
